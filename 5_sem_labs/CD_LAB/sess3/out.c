@@ -1,4 +1,3 @@
-#include<stdlib.h>
 int main(){
 	int p,q,m,n;
 	printf("Enter the dimensions of the first matrix: ");
